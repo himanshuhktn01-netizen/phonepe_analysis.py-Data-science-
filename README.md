@@ -133,8 +133,5 @@ The project uses the PhonePe Pulse dataset containing:
 
 **Himanshu Banke**
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: (Add your LinkedIn profile)
 
 ---
